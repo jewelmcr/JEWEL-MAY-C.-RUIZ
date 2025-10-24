@@ -40,12 +40,6 @@ This repository contains the personal portfolio website of **Jewel May C. Ruiz**
 
 ---
 
-## 📄 Resume
-📎 [`Ruiz_JM_resume.pdf`](./Ruiz_JM_resume.pdf)  
-You can view or download the resume directly from this repository.
-
----
-
 ## 📬 Contact
 For any inquiries or collaborations:  
 **📧 Email:** jewelmcr@gmail.com
