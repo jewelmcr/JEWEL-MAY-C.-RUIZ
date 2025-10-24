@@ -5,7 +5,7 @@ This repository contains the personal portfolio website of **Jewel May C. Ruiz**
 ---
 
 ## 🌐 Live Demo
-🔗 [View Portfolio](https://d3f4ult06.github.io/JEWEL-MAY-C.-RUIZ/)
+🔗 [View Portfolio](https://jewelmcr.github.io/JEWEL-MAY-C.-RUIZ/)
 
 ---
 
